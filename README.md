@@ -112,18 +112,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the following pages:
-
-* Home Page
-* Job Search Dashboard
-* Resume Upload Page
-* AI Resume Analysis Results
-* Job Recommendation Page
-
----
-
 ## 🔮 Future Enhancements
 
 * AI interview preparation assistant
@@ -148,5 +136,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**
+Developed by **[Om Gupta]**
 Passionate about building AI-powered applications that improve the job search experience.
